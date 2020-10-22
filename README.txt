@@ -72,7 +72,7 @@ To get results described in the paper, run the following two commands:
 	To generate mps-files that can be used for MILP solvers, use:
 	./generate_mps -m1 <uaifilename1> -m2 <uaifilename2> -q <one-q-from-q-file> -o <mps-filename>
 
-Code will be released under:
+Code is released under:
     MIT License.
 
 
